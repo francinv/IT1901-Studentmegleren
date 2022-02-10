@@ -130,7 +130,7 @@ Project Link: [https://github.com/francinv/IT2805-Studentmegleren](https://githu
 [license-url]: https://github.com/francinv/IT2805-Studentmegleren/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/francinvincent
-[product-screenshot]: https://imgur.com/4JJJ2p6
+[product-screenshot]: https://imgur.com/6cP3tgc
 [html-badge]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [css-badge]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [js-badge]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
