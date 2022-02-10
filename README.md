@@ -17,9 +17,9 @@
     <br />
     <a href="https://folk.ntnu.no/francinv/Final%20Delivery/Website">View the website</a>
     ·
-    <a href="https://github.com/francinv/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/francinv/IT2805-Studentmegleren/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/francinv/IT2805-Studentmegleren/issues">Request Feature</a>
   </p>
 </div>
 
@@ -49,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Website-Screen-Shot][product-screenshot]](https://folk.ntnu.no/francinv/Final%20Delivery/Website)
+[![product-screenshot][product-screenshot]](https://folk.ntnu.no/francinv/Final%20Delivery/Website)
 
 This is a screenshot of the homepage. The website consists of 5 pages including the homepage. You can click the photo to go to the deployed page and click around!
 
