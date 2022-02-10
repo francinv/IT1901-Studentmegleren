@@ -49,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![product-screenshot][product-screenshot](https://folk.ntnu.no/francinv/Final%20Delivery/Website)
+[![product-screenshot][https://imgur.com/6cP3tgc]](https://folk.ntnu.no/francinv/Final%20Delivery/Website)
 
 This is a screenshot of the homepage. The website consists of 5 pages including the homepage. You can click the photo to go to the deployed page and click around!
 
